@@ -1,7 +1,7 @@
 from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
-TOKEN = '7985037422:AAFqE0kUaD8IRn_2mjPQM1Ikvnndokmf-Cw'
+TOKEN = ''
 BOT_USERNAME: Final = '@vdtttt003bot'
 
 # Các lệnh command
